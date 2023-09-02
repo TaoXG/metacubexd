@@ -1,1 +1,0 @@
-var n=(a=>(a.Close="Close",a.ID="ID",a.Type="Type",a.Process="Process",a.Host="Host",a.Rule="Rule",a.Chains="Chains",a.DlSpeed="DL Speed",a.ULSpeed="UL Speed",a.Download="DL",a.Upload="UL",a.Source="Source",a.Destination="Destination",a))(n||{}),t=(a=>(a[a.NOT_CONNECTED=0]="NOT_CONNECTED",a[a.MEDIUM=200]="MEDIUM",a[a.HIGH=500]="HIGH",a))(t||{});export{n as A,t as D};

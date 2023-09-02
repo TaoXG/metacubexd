@@ -1,1 +1,0 @@
-import{m as e,c as s}from"./vendor-f843f104.js";import{P as a}from"./index-0ed84884.js";const[r,l]=e(s(a.BAR),{name:"proxiesPreviewType",storage:localStorage}),[n,c]=e(s("https://www.gstatic.com/generate_204"),{name:"urlForDelayTest",storage:localStorage}),[i,m]=e(s(!1),{name:"autoCloseConns",storage:localStorage});export{i as a,m as b,c,r as p,l as s,n as u};

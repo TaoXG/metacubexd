@@ -1,4 +1,4 @@
-import{c as ae,m as x,a9 as ge,aa as de}from"./vendor-38af4582.js";/**
+import{c as ae,m as x,aa as ge,ab as de}from"./vendor-bcbfc1b2.js";/**
  * table-core
  *
  * Copyright (c) TanStack

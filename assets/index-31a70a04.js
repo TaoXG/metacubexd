@@ -1,4 +1,4 @@
-import{h as ce,V as P,ac as fe,ad as pe}from"./vendor-889caed6.js";/**
+import{h as ce,V as P,ad as fe,ae as pe}from"./vendor-ef4bbf5e.js";/**
  * table-core
  *
  * Copyright (c) TanStack

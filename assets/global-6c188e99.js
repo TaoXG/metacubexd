@@ -1,1 +1,0 @@
-import{c as n}from"./vendor-1082ac4c.js";const i=t=>/^https?/.test(t)?t:`${window.location.protocol}//${t}`,p=()=>{const[t,c]=n({}),o=(a,s)=>{c({...t(),[a]:s})};return{map:t,set:o,setWithCallback:async(a,s)=>{o(a,!0);try{await s()}catch{}o(a,!1)}}};export{i as t,p as u};
